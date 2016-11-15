@@ -1,4 +1,4 @@
-# yii2-slider-module
+# yii2-content-module
 contnet management functionality 
 
 **installing **
